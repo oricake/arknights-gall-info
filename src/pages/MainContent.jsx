@@ -11,7 +11,7 @@ const MainContent = () => {
       mute: 1,
       controls: 0,
       loop: 1,
-      playlist: "KmeHSJguWBgXlyyG",
+      playlist: "daaeDNjuYY0",
     },
   };
 
@@ -26,7 +26,7 @@ const MainContent = () => {
       {/* 영상 배경 */}
       <div className="absolute inset-0">
         <YouTube
-          videoId="KmeHSJguWBgXlyyG"
+          videoId="daaeDNjuYY0"
           opts={opts}
           onReady={onReady}
           containerClassName="w-full h-full"
