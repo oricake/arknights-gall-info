@@ -26,7 +26,7 @@ const MainContent = () => {
       {/* 영상 배경 */}
       <div className="absolute inset-0">
         <YouTube
-          videoId="vbywTPgz5xQ"
+          videoId="KmeHSJguWBgXlyyG"
           opts={opts}
           onReady={onReady}
           containerClassName="w-full h-full"
